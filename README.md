@@ -1,5 +1,6 @@
 <a href="https://www.linkedin.com/in/mingyo-jeong-8465aa120/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:jmg7173@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jmg7173@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmg7173&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hi, I'm Software Engineer. I'm working for CLASSUM Inc. as Backend Engineer.  
 
